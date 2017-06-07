@@ -1,8 +1,8 @@
 ﻿jQuery(document).ready(function () {
 
      $("#lightbox").fancybox({
-	    'width': 940,
-		'height': 885,
+	    'width': 730,
+		'height': 730,
         'autoScale': false,
         'transitionIn': 'none',
         'transitionOut': 'none',
